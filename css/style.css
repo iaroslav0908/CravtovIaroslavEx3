@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap");
+body {
+  background-color: aqua;
+  font-family: "Playfair Display SC", serif;
+  background-image: url("../images/pexels-photo-260922.webp");
+  color: white;
+  background-image:url(https://campussul.pt/wp-content/uploads/2021/08/mare-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:aliceblue
+}
+
+img {
+  height: 200px;
+  float: left;
+  padding-right: 20px;
+  padding-left: 100px;
+}
+
+.wine {
+  list-style: square;
+}
+h3 {
+  padding-left: 50px;
+}
+footer {
+  padding-top: 50px;
+}
